@@ -1,15 +1,21 @@
 ### Hi there 👋
 ### My name is Kristiyan Vasilev! 😎
-I'm from Bulgaria, living in Sofia. I'm highly enthusiastic of learning new technologies and skills. I'm currently a student at Software University and University of National and World Economy(Bulgaria)
+I'm from Bulgaria, living in Sofia. I'm highly enthusiastic of learning new technologies and skills. I'm currently a student at Software University and University of National and World Economy (Bulgaria).
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KristyanVasilev)
 ____________________________________________________________________________________________________
 ### 📜 Certificates:
-https://softuni.bg/certificates/details/112169/98f78cb0
+["Programing Basics C#"](https://softuni.bg/certificates/details/112169/98f78cb0)
+
+["Programing Fundamentals C#"](https://softuni.bg/certificates/details/119981/e3af1434)
 
 Еxpect more in the near future!😄
 ____________________________________________________________________________________________________
 ### 💡 Currently learning:
-Programming Fundamentals with C# - https://softuni.bg/trainings/3447/programming-fundamentals-with-csharp-september-2021
-Algorithms Fundamentals with C# - https://softuni.bg/trainings/3637/algorithms-fundamentals-with-c-sharp-december-2021
+[C# Advance](https://softuni.bg/trainings/3584/csharp-advanced-january-2022)
+
+[C# OOP](https://softuni.bg/trainings/3585/csharp-oop-february-2022)
+
+[Algorithms Fundamentals with C#](https://softuni.bg/trainings/3637/algorithms-fundamentals-with-c-sharp-december-2021)
 ____________________________________________________________________________________________________
 ### ⚽ Hobbies:
 In my free time I'm trying to learn other programming languages and Adobe ecosystem. I like watching videos about creating games, artificial intelligence or chip coding. I often like to practice different sports, especially football(soccer). I also love to travel and play computer games.
@@ -41,7 +47,7 @@ ________________________________________________________________________________
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 _____________________________________________________________________________________________________
 ### 💬 You can find me on:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) -
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) - Kristiyan Vasilev
                                                                                                   
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - kristiyanvasilev02@gmail.com
 
