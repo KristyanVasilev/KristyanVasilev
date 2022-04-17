@@ -49,7 +49,7 @@ ________________________________________________________________________________
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 _____________________________________________________________________________________________________
 ### 💬 You can find me on:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) - Kristiyan Vasilev
+![LinedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) - Kristiyan Vasilev
                                                                                                   
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - kristiyanvasilev02@gmail.com
 
