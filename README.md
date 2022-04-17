@@ -8,14 +8,16 @@ ________________________________________________________________________________
 
 ["Programing Fundamentals C#"](https://softuni.bg/certificates/details/119981/e3af1434)
 
+["C# Advance"](https://softuni.bg/certificates/details/123675/d6b1b69b)
+
+["C# OOP"](https://softuni.bg/certificates/details/131006/cfd642fd)
+
 Еxpect more in the near future!😄
 ____________________________________________________________________________________________________
 ### 💡 Currently learning:
-[C# Advance](https://softuni.bg/trainings/3584/csharp-advanced-january-2022)
+[MS SQL](https://softuni.bg/trainings/3714/ms-sql-may-2022)
 
-[C# OOP](https://softuni.bg/trainings/3585/csharp-oop-february-2022)
-
-[Algorithms Fundamentals with C#](https://softuni.bg/trainings/3637/algorithms-fundamentals-with-c-sharp-december-2021)
+[Entity Framework Core](https://softuni.bg/courses/entity-framework-core)
 ____________________________________________________________________________________________________
 ### ⚽ Hobbies:
 In my free time I'm trying to learn other programming languages and Adobe ecosystem. I like watching videos about creating games, artificial intelligence or chip coding. I often like to practice different sports, especially football(soccer). I also love to travel and play computer games.
