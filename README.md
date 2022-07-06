@@ -12,12 +12,15 @@ ________________________________________________________________________________
 
 ["C# OOP"](https://softuni.bg/certificates/details/131006/cfd642fd)
 
+["MS SQL"](https://softuni.bg/certificates/details/134972/a98eeda3)
+
+
 Еxpect more in the near future!😄
 ____________________________________________________________________________________________________
 ### 💡 Currently learning:
-[MS SQL](https://softuni.bg/trainings/3714/ms-sql-may-2022)
-
 [Entity Framework Core](https://softuni.bg/courses/entity-framework-core)
+
+[ASP.NET Core](https://softuni.bg/trainings/3854/asp-dot-net-core-october-2022)
 ____________________________________________________________________________________________________
 ### ⚽ Hobbies:
 In my free time I'm trying to learn other programming languages and Adobe ecosystem. I like watching videos about creating games, artificial intelligence or chip coding. I often like to practice different sports, especially football(soccer). I also love to travel and play computer games.
