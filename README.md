@@ -14,11 +14,11 @@ ________________________________________________________________________________
 
 ["MS SQL"](https://softuni.bg/certificates/details/134972/a98eeda3)
 
+["Entity Framework Core"](https://softuni.bg/certificates/details/138418/9bd08f03)
 
 Еxpect more in the near future!😄
 ____________________________________________________________________________________________________
 ### 💡 Currently learning:
-[Entity Framework Core](https://softuni.bg/courses/entity-framework-core)
 
 [ASP.NET Core](https://softuni.bg/trainings/3854/asp-dot-net-core-october-2022)
 ____________________________________________________________________________________________________
