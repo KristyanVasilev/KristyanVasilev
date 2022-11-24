@@ -1,7 +1,10 @@
 ### Hi there 👋
 ### My name is Kristiyan Vasilev! 😎
-I'm from Bulgaria, living in Sofia. I'm highly enthusiastic of learning new technologies and skills. I'm currently a student at Software University and University of National and World Economy (Bulgaria).
+I'm from Bulgaria, living in Sofia and highly motivated to learn new technologies and skills. I'm currently a software developer intern at Amdaris, a student at Software University and University of National and World Economy (Bulgaria).
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KristyanVasilev)
+
+![GitHub Snake Light](https://raw.githubusercontent.com/vassdeniss/vassdeniss/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/vassdeniss/vassdeniss/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ____________________________________________________________________________________________________
 ### 📜 Certificates:
 ["Programing Basics C#"](https://softuni.bg/certificates/details/112169/98f78cb0)
@@ -15,6 +18,8 @@ ________________________________________________________________________________
 ["MS SQL"](https://softuni.bg/certificates/details/134972/a98eeda3)
 
 ["Entity Framework Core"](https://softuni.bg/certificates/details/138418/9bd08f03)
+
+["ASP.NET Fundamentals"](https://softuni.bg/certificates/details/146514/f33c8f8b)
 
 Еxpect more in the near future!😄
 ____________________________________________________________________________________________________
@@ -61,7 +66,4 @@ ________________________________________________________________________________
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) - kriskata#1376
 _____________________________________________________________________________________________________
 ### 📈 GitHub Stats:
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KristyanVasilev&theme=gotham"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristyanVasilev&theme=gotham" />
-
-
