@@ -27,7 +27,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________
 ### 💡 Currently learning:
 
-[ASP.NET Core](https://softuni.bg/trainings/3854/asp-dot-net-core-october-2022)
+[Full Stack Web Development with React JS, Angular and NodeJS](https://www.udemy.com/course/full-stack-web-development-2021-guide-with-nodejs-mongodb/)
 ____________________________________________________________________________________________________
 ### ⚽ Hobbies:
 In my free time I'm trying to learn other programming languages and Adobe ecosystem. I like watching videos about creating games, artificial intelligence or chip coding. I often like to practice different sports, especially football(soccer). I also love to travel and play computer games.
