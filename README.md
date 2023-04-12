@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is Kristiyan Vasilev! 😎
-I'm from Bulgaria, living in Sofia and highly motivated to learn new technologies and skills. I'm currently a software developer intern at Amdaris, a student at Software University and University of National and World Economy (Bulgaria).
+I'm Associate Software Developer at Amdaris, a student at Software University and University of National and World Economy (Bulgaria). I'm from Bulgaria, living in Sofia and highly motivated to learn new technologies and skills. 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KristyanVasilev)
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/vassdeniss/vassdeniss/output/github-contribution-grid-snake.svg#gh-light-mode-only)
