@@ -58,6 +58,7 @@ ________________________________________________________________________________
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%23FFA500.svg?style=for-the-badge&logo=react&logoColor=%23323330)
 ![TypeScript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=%23ADD8E6)
+![Stripe](https://img.shields.io/badge/stripe-%230069E3.svg?style=for-the-badge&logo=stripe&logoColor=white)
 
 ### Graphic Design:
   ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
