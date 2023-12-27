@@ -37,11 +37,15 @@ ________________________________________________________________________________
 
 ["Stripe Certified Professional Developer"](https://stripecertifications.credential.net/8ee0fe07-8ce8-4f7d-bbbc-236261b96e83#gs.5uxx1k)
 
+["ReactJS"](https://softuni.bg/certificates/details/197763/72de0902)
+
+["C# Full-Stack Developer"](https://softuni.bg/certificates/details/198310/1bba3eee)
+
 Еxpect more in the near future!😄
 ____________________________________________________________________________________________________
 ### 💡 Currently learning:
 
-[ReactJS](https://softuni.bg/trainings/4238/reactjs-october-2023)
+Improving my skills in C# and React
 ____________________________________________________________________________________________________
 ### ⚽ Hobbies:
 In my free time, I'm passionate about expanding my horizons by delving into new programming languages and exploring the Adobe ecosystem. I have a deep interest in video content that covers a wide range of topics, from game development and artificial intelligence to the intricacies of chip coding.
