@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is Kristiyan Vasilev! 😎
-By day, I work as an Associate Software Developer at Amdaris, based in Sofia, Bulgaria. Currently, I'm pursuing my education at both Software University and the University of National and World Economy in Bulgaria. 
+By day, I work as an Associate Software Developer at Amdaris, based in Sofia, Bulgaria. Currently, I have recently graduated as a C# Full-Stack Developer from Software University, complementing my ongoing education at the University of National and World Economy in Bulgaria. 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KristyanVasilev)
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/vassdeniss/vassdeniss/output/github-contribution-grid-snake.svg#gh-light-mode-only)
