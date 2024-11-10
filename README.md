@@ -1,6 +1,15 @@
 ### Hi there 👋
 ### My name is Kristiyan Vasilev! 😎
-By day, I work as an Associate Software Developer at Amdaris, based in Sofia, Bulgaria. Currently, I have recently graduated as a C# Full-Stack Developer from Software University, complementing my ongoing education at the University of National and World Economy in Bulgaria. 
+I'm a Software Developer based in Sofia, Bulgaria. I graduated as a C# Full-Stack Developer from Software University and am continuing my studies at the University of National and World Economy in Bulgaria.
+
+MatchPro | Mini Football League
+As a League Organizer & Developer, I launched and managed a mini-football league in my city, handling operations, team management, and community engagement.
+
+I also developed a web application for tracking league statistics, including team standings, player performance, and match schedules, using C#, .NET, SQL, and Vue.js.
+
+## Visit ⚽[MatchPro](https://matchpro.info)⚽ here!
+
+My role combined technical and leadership skills to create a dynamic and accessible platform for the local sports community.
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KristyanVasilev)
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/vassdeniss/vassdeniss/output/github-contribution-grid-snake.svg#gh-light-mode-only)
